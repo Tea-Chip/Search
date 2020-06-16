@@ -1,2 +1,2 @@
-# SearchDev
+# Search
 A search template
